@@ -1,0 +1,561 @@
+order_id,date,product,category,qty,unit_price_pkr,amount_pkr
+ORD-1001,2026-07-21,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1002,2026-07-24,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1003,2026-07-08,Wireless Mouse,Electronics,3,2800,8400
+ORD-1004,2026-07-04,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1005,2026-07-19,Office Chair,Furniture,1,18900,18900
+ORD-1006,2026-07-01,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1007,2026-07-08,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1008,2026-07-01,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1009,2026-07-23,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1010,2026-07-08,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1011,2026-07-09,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1012,2026-07-23,Office Chair,Furniture,1,18900,18900
+ORD-1013,2026-07-09,Wireless Mouse,Electronics,1,2800,2800
+ORD-1014,2026-07-25,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1015,2026-07-03,Office Chair,Furniture,1,18900,18900
+ORD-1016,2026-07-12,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1017,2026-07-09,LED Desk Lamp,Electronics,3,4200,12600
+ORD-1018,2026-07-15,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1019,2026-07-13,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1020,2026-07-10,Pen Set (10),Stationery,1,950,950
+ORD-1021,2026-07-19,Stainless Steel Kettle,Kitchen,3,5400,16200
+ORD-1022,2026-07-03,LED Desk Lamp,Electronics,3,4200,12600
+ORD-1023,2026-07-08,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1024,2026-07-28,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1025,2026-07-13,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1026,2026-07-21,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1027,2026-07-12,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1028,2026-07-22,Non-stick Pan Set,Kitchen,3,8900,26700
+ORD-1029,2026-07-22,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1030,2026-07-21,Wireless Mouse,Electronics,2,2800,5600
+ORD-1031,2026-07-24,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1032,2026-07-15,Office Chair,Furniture,1,18900,18900
+ORD-1033,2026-07-21,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1034,2026-07-22,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1035,2026-07-08,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1036,2026-07-13,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1037,2026-07-07,Pen Set (10),Stationery,3,950,2850
+ORD-1038,2026-07-11,Stainless Steel Kettle,Kitchen,3,5400,16200
+ORD-1039,2026-07-16,Office Chair,Furniture,3,18900,56700
+ORD-1040,2026-07-15,Wireless Mouse,Electronics,1,2800,2800
+ORD-1041,2026-07-05,Stainless Steel Kettle,Kitchen,3,5400,16200
+ORD-1042,2026-07-18,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1043,2026-07-24,Pen Set (10),Stationery,2,950,1900
+ORD-1044,2026-07-19,Office Chair,Furniture,1,18900,18900
+ORD-1045,2026-07-08,Wireless Mouse,Electronics,2,2800,5600
+ORD-1046,2026-07-16,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1047,2026-07-28,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1048,2026-07-21,Wireless Mouse,Electronics,3,2800,8400
+ORD-1049,2026-07-14,Pen Set (10),Stationery,1,950,950
+ORD-1050,2026-07-13,Office Chair,Furniture,2,18900,37800
+ORD-1051,2026-07-15,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1052,2026-07-18,LED Desk Lamp,Electronics,3,4200,12600
+ORD-1053,2026-07-24,Bluetooth Speaker,Electronics,3,6500,19500
+ORD-1054,2026-07-18,Non-stick Pan Set,Kitchen,3,8900,26700
+ORD-1055,2026-07-11,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1056,2026-07-14,Wireless Mouse,Electronics,2,2800,5600
+ORD-1057,2026-07-01,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1058,2026-07-25,Wireless Mouse,Electronics,2,2800,5600
+ORD-1059,2026-07-04,Non-stick Pan Set,Kitchen,3,8900,26700
+ORD-1060,2026-07-17,Pen Set (10),Stationery,1,950,950
+ORD-1061,2026-07-05,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1062,2026-07-18,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1063,2026-07-20,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1064,2026-07-01,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1065,2026-07-27,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1066,2026-07-02,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1067,2026-07-03,Bluetooth Speaker,Electronics,3,6500,19500
+ORD-1068,2026-07-16,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1069,2026-07-25,Wireless Mouse,Electronics,1,2800,2800
+ORD-1070,2026-07-22,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1071,2026-07-06,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1072,2026-07-28,Pen Set (10),Stationery,2,950,1900
+ORD-1073,2026-07-07,Notebook Pack (5),Stationery,3,1200,3600
+ORD-1074,2026-07-23,Stainless Steel Kettle,Kitchen,3,5400,16200
+ORD-1075,2026-07-10,Office Chair,Furniture,3,18900,56700
+ORD-1076,2026-07-21,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1077,2026-07-17,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1078,2026-07-08,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1079,2026-07-11,LED Desk Lamp,Electronics,2,4200,8400
+ORD-1080,2026-07-18,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1081,2026-07-08,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1082,2026-07-23,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1083,2026-07-03,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1084,2026-07-03,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1085,2026-07-09,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1086,2026-07-18,Wireless Mouse,Electronics,3,2800,8400
+ORD-1087,2026-07-19,Pen Set (10),Stationery,2,950,1900
+ORD-1088,2026-07-08,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1089,2026-07-07,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1090,2026-07-22,Office Chair,Furniture,1,18900,18900
+ORD-1091,2026-07-14,Office Chair,Furniture,2,18900,37800
+ORD-1092,2026-07-28,LED Desk Lamp,Electronics,3,4200,12600
+ORD-1093,2026-07-21,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1094,2026-07-13,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1095,2026-07-08,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1096,2026-07-18,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1097,2026-07-14,Wireless Mouse,Electronics,1,2800,2800
+ORD-1098,2026-07-15,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1099,2026-07-15,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1100,2026-07-02,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1101,2026-07-03,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1102,2026-07-14,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1103,2026-07-07,Office Chair,Furniture,1,18900,18900
+ORD-1104,2026-07-06,Office Chair,Furniture,1,18900,18900
+ORD-1105,2026-07-13,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1106,2026-07-10,Office Chair,Furniture,3,18900,56700
+ORD-1107,2026-07-24,Notebook Pack (5),Stationery,3,1200,3600
+ORD-1108,2026-07-23,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1109,2026-07-07,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1110,2026-07-02,Pen Set (10),Stationery,3,950,2850
+ORD-1111,2026-07-18,LED Desk Lamp,Electronics,3,4200,12600
+ORD-1112,2026-07-11,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1113,2026-07-19,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1114,2026-07-28,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1115,2026-07-02,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1116,2026-07-28,Wireless Mouse,Electronics,1,2800,2800
+ORD-1117,2026-07-20,Bluetooth Speaker,Electronics,3,6500,19500
+ORD-1118,2026-07-28,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1119,2026-07-04,Pen Set (10),Stationery,1,950,950
+ORD-1120,2026-07-19,Pen Set (10),Stationery,1,950,950
+ORD-1121,2026-07-20,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1122,2026-07-22,Pen Set (10),Stationery,2,950,1900
+ORD-1123,2026-07-17,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1124,2026-07-07,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1125,2026-07-09,Office Chair,Furniture,1,18900,18900
+ORD-1126,2026-07-22,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1127,2026-07-11,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1128,2026-07-15,Pen Set (10),Stationery,2,950,1900
+ORD-1129,2026-07-04,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1130,2026-07-07,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1131,2026-07-05,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1132,2026-07-08,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1133,2026-07-06,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1134,2026-07-23,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1135,2026-07-26,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1136,2026-07-22,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1137,2026-07-22,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1138,2026-07-09,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1139,2026-07-24,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1140,2026-07-09,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1141,2026-07-07,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1142,2026-07-22,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1143,2026-07-16,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1144,2026-07-03,Office Chair,Furniture,1,18900,18900
+ORD-1145,2026-07-02,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1146,2026-07-25,Wireless Mouse,Electronics,3,2800,8400
+ORD-1147,2026-07-09,Wireless Mouse,Electronics,3,2800,8400
+ORD-1148,2026-07-15,Notebook Pack (5),Stationery,3,1200,3600
+ORD-1149,2026-07-14,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1150,2026-07-04,Bluetooth Speaker,Electronics,3,6500,19500
+ORD-1151,2026-07-05,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1152,2026-07-27,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1153,2026-07-18,Wireless Mouse,Electronics,2,2800,5600
+ORD-1154,2026-07-05,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1155,2026-07-12,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1156,2026-07-07,Stainless Steel Kettle,Kitchen,3,5400,16200
+ORD-1157,2026-07-04,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1158,2026-07-28,Office Chair,Furniture,2,18900,37800
+ORD-1159,2026-07-24,Wireless Mouse,Electronics,1,2800,2800
+ORD-1160,2026-07-28,Wireless Mouse,Electronics,1,2800,2800
+ORD-1161,2026-07-14,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1162,2026-07-24,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1163,2026-07-26,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1164,2026-07-06,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1165,2026-07-28,LED Desk Lamp,Electronics,2,4200,8400
+ORD-1166,2026-07-08,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1167,2026-07-12,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1168,2026-07-08,LED Desk Lamp,Electronics,3,4200,12600
+ORD-1169,2026-07-07,Office Chair,Furniture,1,18900,18900
+ORD-1170,2026-07-09,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1171,2026-08-12,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1172,2026-08-22,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1173,2026-08-01,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1174,2026-08-06,Pen Set (10),Stationery,1,950,950
+ORD-1175,2026-08-02,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1176,2026-08-14,Ceramic Dinner Set,Kitchen,3,12500,37500
+ORD-1177,2026-08-26,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1178,2026-08-20,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1179,2026-08-13,Pen Set (10),Stationery,1,950,950
+ORD-1180,2026-08-09,LED Desk Lamp,Electronics,3,4200,12600
+ORD-1181,2026-08-14,LED Desk Lamp,Electronics,2,4200,8400
+ORD-1182,2026-08-26,Notebook Pack (5),Stationery,3,1200,3600
+ORD-1183,2026-08-24,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1184,2026-08-14,Bluetooth Speaker,Electronics,3,6500,19500
+ORD-1185,2026-08-11,Pen Set (10),Stationery,1,950,950
+ORD-1186,2026-08-22,Bluetooth Speaker,Electronics,3,6500,19500
+ORD-1187,2026-08-10,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1188,2026-08-22,Office Chair,Furniture,1,18900,18900
+ORD-1189,2026-08-13,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1190,2026-08-05,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1191,2026-08-22,Office Chair,Furniture,3,18900,56700
+ORD-1192,2026-08-24,Wireless Mouse,Electronics,2,2800,5600
+ORD-1193,2026-08-19,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1194,2026-08-18,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1195,2026-08-10,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1196,2026-08-26,Pen Set (10),Stationery,2,950,1900
+ORD-1197,2026-08-21,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1198,2026-08-15,Wooden Bookshelf,Furniture,3,15400,46200
+ORD-1199,2026-08-07,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1200,2026-08-26,Wireless Mouse,Electronics,3,2800,8400
+ORD-1201,2026-08-03,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1202,2026-08-22,Pen Set (10),Stationery,1,950,950
+ORD-1203,2026-08-03,Stainless Steel Kettle,Kitchen,3,5400,16200
+ORD-1204,2026-08-10,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1205,2026-08-05,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1206,2026-08-08,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1207,2026-08-28,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1208,2026-08-14,Pen Set (10),Stationery,1,950,950
+ORD-1209,2026-08-23,Office Chair,Furniture,2,18900,37800
+ORD-1210,2026-08-13,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1211,2026-08-21,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1212,2026-08-25,Office Chair,Furniture,1,18900,18900
+ORD-1213,2026-08-06,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1214,2026-08-02,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1215,2026-08-28,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1216,2026-08-05,Wooden Bookshelf,Furniture,3,15400,46200
+ORD-1217,2026-08-17,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1218,2026-08-11,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1219,2026-08-27,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1220,2026-08-27,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1221,2026-08-06,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1222,2026-08-09,Stainless Steel Kettle,Kitchen,3,5400,16200
+ORD-1223,2026-08-09,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1224,2026-08-21,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1225,2026-08-15,Bluetooth Speaker,Electronics,3,6500,19500
+ORD-1226,2026-08-10,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1227,2026-08-11,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1228,2026-08-03,Wireless Mouse,Electronics,1,2800,2800
+ORD-1229,2026-08-08,Office Chair,Furniture,3,18900,56700
+ORD-1230,2026-08-05,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1231,2026-08-14,Office Chair,Furniture,1,18900,18900
+ORD-1232,2026-08-18,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1233,2026-08-02,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1234,2026-08-13,Pen Set (10),Stationery,3,950,2850
+ORD-1235,2026-08-01,Pen Set (10),Stationery,2,950,1900
+ORD-1236,2026-08-16,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1237,2026-08-10,Office Chair,Furniture,2,18900,37800
+ORD-1238,2026-08-18,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1239,2026-08-08,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1240,2026-08-09,Office Chair,Furniture,2,18900,37800
+ORD-1241,2026-08-01,Office Chair,Furniture,1,18900,18900
+ORD-1242,2026-08-22,Office Chair,Furniture,3,18900,56700
+ORD-1243,2026-08-06,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1244,2026-08-20,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1245,2026-08-13,Pen Set (10),Stationery,2,950,1900
+ORD-1246,2026-08-22,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1247,2026-08-21,Office Chair,Furniture,1,18900,18900
+ORD-1248,2026-08-28,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1249,2026-08-02,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1250,2026-08-11,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1251,2026-08-11,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1252,2026-08-09,Office Chair,Furniture,1,18900,18900
+ORD-1253,2026-08-27,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1254,2026-08-01,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1255,2026-08-12,Stainless Steel Kettle,Kitchen,3,5400,16200
+ORD-1256,2026-08-03,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1257,2026-08-08,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1258,2026-08-20,Wireless Mouse,Electronics,1,2800,2800
+ORD-1259,2026-08-05,Wooden Bookshelf,Furniture,3,15400,46200
+ORD-1260,2026-08-04,Pen Set (10),Stationery,1,950,950
+ORD-1261,2026-08-15,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1262,2026-08-06,Pen Set (10),Stationery,2,950,1900
+ORD-1263,2026-08-24,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1264,2026-08-10,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1265,2026-08-01,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1266,2026-08-22,Office Chair,Furniture,2,18900,37800
+ORD-1267,2026-08-23,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1268,2026-08-19,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1269,2026-08-23,Non-stick Pan Set,Kitchen,3,8900,26700
+ORD-1270,2026-08-20,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1271,2026-08-26,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1272,2026-08-18,Office Chair,Furniture,3,18900,56700
+ORD-1273,2026-08-12,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1274,2026-08-21,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1275,2026-08-28,Office Chair,Furniture,2,18900,37800
+ORD-1276,2026-08-04,Office Chair,Furniture,1,18900,18900
+ORD-1277,2026-08-21,Wooden Bookshelf,Furniture,3,15400,46200
+ORD-1278,2026-08-05,Office Chair,Furniture,1,18900,18900
+ORD-1279,2026-08-24,Notebook Pack (5),Stationery,3,1200,3600
+ORD-1280,2026-08-09,Pen Set (10),Stationery,2,950,1900
+ORD-1281,2026-08-25,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1282,2026-08-14,Pen Set (10),Stationery,1,950,950
+ORD-1283,2026-08-11,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1284,2026-08-09,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1285,2026-08-25,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1286,2026-08-20,Office Chair,Furniture,1,18900,18900
+ORD-1287,2026-08-01,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1288,2026-08-06,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1289,2026-08-12,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1290,2026-08-09,Pen Set (10),Stationery,3,950,2850
+ORD-1291,2026-08-09,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1292,2026-08-17,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1293,2026-08-08,Office Chair,Furniture,2,18900,37800
+ORD-1294,2026-08-18,Stainless Steel Kettle,Kitchen,3,5400,16200
+ORD-1295,2026-08-16,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1296,2026-08-26,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1297,2026-08-10,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1298,2026-08-23,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1299,2026-08-22,Pen Set (10),Stationery,1,950,950
+ORD-1300,2026-08-16,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1301,2026-08-12,Office Chair,Furniture,3,18900,56700
+ORD-1302,2026-08-18,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1303,2026-08-23,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1304,2026-08-10,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1305,2026-08-04,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1306,2026-08-04,Notebook Pack (5),Stationery,3,1200,3600
+ORD-1307,2026-08-06,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1308,2026-08-24,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1309,2026-08-24,Pen Set (10),Stationery,2,950,1900
+ORD-1310,2026-08-20,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1311,2026-08-27,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1312,2026-08-08,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1313,2026-08-10,LED Desk Lamp,Electronics,3,4200,12600
+ORD-1314,2026-08-18,Wireless Mouse,Electronics,1,2800,2800
+ORD-1315,2026-08-02,LED Desk Lamp,Electronics,2,4200,8400
+ORD-1316,2026-08-10,Wireless Mouse,Electronics,3,2800,8400
+ORD-1317,2026-08-28,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1318,2026-08-28,LED Desk Lamp,Electronics,2,4200,8400
+ORD-1319,2026-08-10,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1320,2026-08-15,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1321,2026-08-02,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1322,2026-08-04,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1323,2026-08-16,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1324,2026-08-21,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1325,2026-08-05,Pen Set (10),Stationery,1,950,950
+ORD-1326,2026-08-03,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1327,2026-08-18,Office Chair,Furniture,2,18900,37800
+ORD-1328,2026-08-20,Pen Set (10),Stationery,1,950,950
+ORD-1329,2026-08-25,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1330,2026-08-15,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1331,2026-08-28,Pen Set (10),Stationery,2,950,1900
+ORD-1332,2026-08-10,Pen Set (10),Stationery,2,950,1900
+ORD-1333,2026-08-02,Pen Set (10),Stationery,3,950,2850
+ORD-1334,2026-08-04,Stainless Steel Kettle,Kitchen,3,5400,16200
+ORD-1335,2026-08-07,Non-stick Pan Set,Kitchen,3,8900,26700
+ORD-1336,2026-08-03,Wireless Mouse,Electronics,1,2800,2800
+ORD-1337,2026-08-06,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1338,2026-08-06,LED Desk Lamp,Electronics,2,4200,8400
+ORD-1339,2026-08-15,Pen Set (10),Stationery,2,950,1900
+ORD-1340,2026-08-10,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1341,2026-08-10,Non-stick Pan Set,Kitchen,3,8900,26700
+ORD-1342,2026-08-28,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1343,2026-08-22,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1344,2026-08-26,Pen Set (10),Stationery,3,950,2850
+ORD-1345,2026-08-26,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1346,2026-08-04,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1347,2026-08-21,Wireless Mouse,Electronics,1,2800,2800
+ORD-1348,2026-08-27,Wireless Mouse,Electronics,1,2800,2800
+ORD-1349,2026-08-02,Wireless Mouse,Electronics,1,2800,2800
+ORD-1350,2026-08-20,Pen Set (10),Stationery,1,950,950
+ORD-1351,2026-08-15,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1352,2026-08-23,Non-stick Pan Set,Kitchen,3,8900,26700
+ORD-1353,2026-08-13,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1354,2026-08-18,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1355,2026-08-03,Pen Set (10),Stationery,1,950,950
+ORD-1356,2026-09-14,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1357,2026-09-09,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1358,2026-09-08,Pen Set (10),Stationery,2,950,1900
+ORD-1359,2026-09-01,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1360,2026-09-02,Wireless Mouse,Electronics,2,2800,5600
+ORD-1361,2026-09-17,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1362,2026-09-06,Pen Set (10),Stationery,2,950,1900
+ORD-1363,2026-09-21,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1364,2026-09-16,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1365,2026-09-11,Ceramic Dinner Set,Kitchen,3,12500,37500
+ORD-1366,2026-09-04,Wireless Mouse,Electronics,1,2800,2800
+ORD-1367,2026-09-14,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1368,2026-09-22,Office Chair,Furniture,2,18900,37800
+ORD-1369,2026-09-02,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1370,2026-09-11,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1371,2026-09-04,Office Chair,Furniture,2,18900,37800
+ORD-1372,2026-09-27,LED Desk Lamp,Electronics,3,4200,12600
+ORD-1373,2026-09-28,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1374,2026-09-14,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1375,2026-09-17,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1376,2026-09-25,Wooden Bookshelf,Furniture,3,15400,46200
+ORD-1377,2026-09-15,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1378,2026-09-09,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1379,2026-09-10,Wooden Bookshelf,Furniture,3,15400,46200
+ORD-1380,2026-09-16,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1381,2026-09-21,Pen Set (10),Stationery,1,950,950
+ORD-1382,2026-09-23,Wireless Mouse,Electronics,1,2800,2800
+ORD-1383,2026-09-18,LED Desk Lamp,Electronics,2,4200,8400
+ORD-1384,2026-09-14,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1385,2026-09-27,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1386,2026-09-04,Wireless Mouse,Electronics,2,2800,5600
+ORD-1387,2026-09-23,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1388,2026-09-23,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1389,2026-09-27,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1390,2026-09-08,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1391,2026-09-05,Office Chair,Furniture,1,18900,18900
+ORD-1392,2026-09-20,Notebook Pack (5),Stationery,3,1200,3600
+ORD-1393,2026-09-05,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1394,2026-09-25,Office Chair,Furniture,1,18900,18900
+ORD-1395,2026-09-26,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1396,2026-09-27,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1397,2026-09-24,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1398,2026-09-19,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1399,2026-09-15,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1400,2026-09-12,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1401,2026-09-25,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1402,2026-09-15,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1403,2026-09-23,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1404,2026-09-13,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1405,2026-09-02,Ceramic Dinner Set,Kitchen,3,12500,37500
+ORD-1406,2026-09-16,Office Chair,Furniture,2,18900,37800
+ORD-1407,2026-09-22,Wireless Mouse,Electronics,2,2800,5600
+ORD-1408,2026-09-02,Wireless Mouse,Electronics,2,2800,5600
+ORD-1409,2026-09-19,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1410,2026-09-28,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1411,2026-09-17,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1412,2026-09-24,Wireless Mouse,Electronics,2,2800,5600
+ORD-1413,2026-09-28,Wireless Mouse,Electronics,1,2800,2800
+ORD-1414,2026-09-16,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1415,2026-09-20,Office Chair,Furniture,3,18900,56700
+ORD-1416,2026-09-03,Ceramic Dinner Set,Kitchen,3,12500,37500
+ORD-1417,2026-09-28,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1418,2026-09-11,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1419,2026-09-02,Pen Set (10),Stationery,1,950,950
+ORD-1420,2026-09-08,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1421,2026-09-24,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1422,2026-09-04,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1423,2026-09-06,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1424,2026-09-02,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1425,2026-09-10,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1426,2026-09-14,Wireless Mouse,Electronics,1,2800,2800
+ORD-1427,2026-09-17,Office Chair,Furniture,2,18900,37800
+ORD-1428,2026-09-22,Wireless Mouse,Electronics,1,2800,2800
+ORD-1429,2026-09-06,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1430,2026-09-28,Office Chair,Furniture,2,18900,37800
+ORD-1431,2026-09-22,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1432,2026-09-19,Wireless Mouse,Electronics,1,2800,2800
+ORD-1433,2026-09-15,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1434,2026-09-09,LED Desk Lamp,Electronics,2,4200,8400
+ORD-1435,2026-09-10,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1436,2026-09-03,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1437,2026-09-19,Non-stick Pan Set,Kitchen,3,8900,26700
+ORD-1438,2026-09-14,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1439,2026-09-28,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1440,2026-09-13,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1441,2026-09-08,Office Chair,Furniture,2,18900,37800
+ORD-1442,2026-09-12,Pen Set (10),Stationery,1,950,950
+ORD-1443,2026-09-23,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1444,2026-09-27,Office Chair,Furniture,1,18900,18900
+ORD-1445,2026-09-01,Pen Set (10),Stationery,3,950,2850
+ORD-1446,2026-09-25,LED Desk Lamp,Electronics,2,4200,8400
+ORD-1447,2026-09-24,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1448,2026-09-25,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1449,2026-09-26,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1450,2026-09-21,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1451,2026-09-09,Wireless Mouse,Electronics,3,2800,8400
+ORD-1452,2026-09-04,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1453,2026-09-26,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1454,2026-09-19,Ceramic Dinner Set,Kitchen,3,12500,37500
+ORD-1455,2026-09-05,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1456,2026-09-11,Office Chair,Furniture,1,18900,18900
+ORD-1457,2026-09-07,Wireless Mouse,Electronics,2,2800,5600
+ORD-1458,2026-09-12,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1459,2026-09-09,Wireless Mouse,Electronics,1,2800,2800
+ORD-1460,2026-09-27,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1461,2026-09-24,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1462,2026-09-15,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1463,2026-09-25,Stainless Steel Kettle,Kitchen,3,5400,16200
+ORD-1464,2026-09-24,Office Chair,Furniture,2,18900,37800
+ORD-1465,2026-09-12,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1466,2026-09-01,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1467,2026-09-04,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1468,2026-09-22,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1469,2026-09-13,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1470,2026-09-22,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1471,2026-09-01,Pen Set (10),Stationery,2,950,1900
+ORD-1472,2026-09-11,Pen Set (10),Stationery,1,950,950
+ORD-1473,2026-09-21,Bluetooth Speaker,Electronics,3,6500,19500
+ORD-1474,2026-09-27,Wooden Bookshelf,Furniture,3,15400,46200
+ORD-1475,2026-09-10,Office Chair,Furniture,1,18900,18900
+ORD-1476,2026-09-05,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1477,2026-09-10,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1478,2026-09-04,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1479,2026-09-05,Office Chair,Furniture,2,18900,37800
+ORD-1480,2026-09-12,Notebook Pack (5),Stationery,2,1200,2400
+ORD-1481,2026-09-19,Wireless Mouse,Electronics,2,2800,5600
+ORD-1482,2026-09-21,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1483,2026-09-20,Office Chair,Furniture,1,18900,18900
+ORD-1484,2026-09-02,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1485,2026-09-15,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1486,2026-09-28,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1487,2026-09-22,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1488,2026-09-21,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1489,2026-09-13,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1490,2026-09-04,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1491,2026-09-22,Stainless Steel Kettle,Kitchen,3,5400,16200
+ORD-1492,2026-09-21,Pen Set (10),Stationery,1,950,950
+ORD-1493,2026-09-02,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1494,2026-09-05,Pen Set (10),Stationery,1,950,950
+ORD-1495,2026-09-03,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1496,2026-09-19,Stainless Steel Kettle,Kitchen,1,5400,5400
+ORD-1497,2026-09-11,Wireless Mouse,Electronics,2,2800,5600
+ORD-1498,2026-09-01,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1499,2026-09-05,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1500,2026-09-26,Wireless Mouse,Electronics,1,2800,2800
+ORD-1501,2026-09-22,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1502,2026-09-01,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1503,2026-09-19,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1504,2026-09-06,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1505,2026-09-05,Office Chair,Furniture,2,18900,37800
+ORD-1506,2026-09-04,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1507,2026-09-15,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1508,2026-09-19,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1509,2026-09-17,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1510,2026-09-02,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1511,2026-09-15,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1512,2026-09-16,Office Chair,Furniture,2,18900,37800
+ORD-1513,2026-09-22,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1514,2026-09-23,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1515,2026-09-03,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1516,2026-09-05,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1517,2026-09-09,Pen Set (10),Stationery,3,950,2850
+ORD-1518,2026-09-19,Notebook Pack (5),Stationery,3,1200,3600
+ORD-1519,2026-09-11,Office Chair,Furniture,2,18900,37800
+ORD-1520,2026-09-17,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1521,2026-09-17,Pen Set (10),Stationery,2,950,1900
+ORD-1522,2026-09-04,Bluetooth Speaker,Electronics,3,6500,19500
+ORD-1523,2026-09-21,Notebook Pack (5),Stationery,3,1200,3600
+ORD-1524,2026-09-28,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1525,2026-09-15,Stainless Steel Kettle,Kitchen,2,5400,10800
+ORD-1526,2026-09-11,Wooden Bookshelf,Furniture,2,15400,30800
+ORD-1527,2026-09-14,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1528,2026-09-14,Ceramic Dinner Set,Kitchen,3,12500,37500
+ORD-1529,2026-09-09,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1530,2026-09-22,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1531,2026-09-03,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1532,2026-09-14,Bluetooth Speaker,Electronics,3,6500,19500
+ORD-1533,2026-09-24,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1534,2026-09-18,LED Desk Lamp,Electronics,2,4200,8400
+ORD-1535,2026-09-18,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1536,2026-09-22,Bluetooth Speaker,Electronics,2,6500,13000
+ORD-1537,2026-09-12,Office Chair,Furniture,3,18900,56700
+ORD-1538,2026-09-02,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1539,2026-09-10,Ceramic Dinner Set,Kitchen,1,12500,12500
+ORD-1540,2026-09-19,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1541,2026-09-05,Wooden Bookshelf,Furniture,1,15400,15400
+ORD-1542,2026-09-28,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1543,2026-09-28,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1544,2026-09-04,Non-stick Pan Set,Kitchen,2,8900,17800
+ORD-1545,2026-09-08,Office Chair,Furniture,2,18900,37800
+ORD-1546,2026-09-25,Pen Set (10),Stationery,2,950,1900
+ORD-1547,2026-09-22,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1548,2026-09-20,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1549,2026-09-06,Non-stick Pan Set,Kitchen,3,8900,26700
+ORD-1550,2026-09-25,Non-stick Pan Set,Kitchen,1,8900,8900
+ORD-1551,2026-09-12,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1552,2026-09-28,Wireless Mouse,Electronics,2,2800,5600
+ORD-1553,2026-09-22,Office Chair,Furniture,1,18900,18900
+ORD-1554,2026-09-05,LED Desk Lamp,Electronics,1,4200,4200
+ORD-1555,2026-09-24,Notebook Pack (5),Stationery,1,1200,1200
+ORD-1556,2026-09-13,Office Chair,Furniture,2,18900,37800
+ORD-1557,2026-09-11,Wireless Mouse,Electronics,1,2800,2800
+ORD-1558,2026-09-10,Ceramic Dinner Set,Kitchen,2,12500,25000
+ORD-1559,2026-09-20,Bluetooth Speaker,Electronics,1,6500,6500
+ORD-1560,2026-09-05,Wireless Mouse,Electronics,2,2800,5600
