@@ -1,5 +1,7 @@
 # P7 — Automated Monthly Report
 
+**Repo:** https://github.com/mhkh-stock/p7-automated-monthly-report
+
 **Client pain:** every month, somebody rebuilds the same report by hand —
 copying sales into a sheet, re-totaling, re-charting, re-writing the
 summary. It takes a day, and the month-on-month number is wrong whenever
