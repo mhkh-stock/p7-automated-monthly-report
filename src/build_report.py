@@ -1,9 +1,12 @@
 """Build the automated monthly report workbook from data/raw/sales_SAMPLE.csv.
 Data sheet = raw lines (Excel Table). Summary + Monthly Trend sheets use
-LIVE formulas (SUMIFS/COUNTIFS/AVERAGEIFS) over Data, so pasting a new
+LIVE formulas (SUMPRODUCT) over Data, so pasting a new
 month's lines into Data and extending the month row rebuilds the report
 with no re-typing. Charts are native Excel charts over the summary tables.
-Report month = latest month in the data (Sep 2026 in the sample)."""
+Report month = latest month in the data (Sep 2026 in the sample). NOTE:
+the live formulas are built for the months present at build time (fixed
+row range and month literals) — a new month needs a rebuild via this
+script, it does not move Summary on its own."""
 import csv
 from pathlib import Path
 from openpyxl import Workbook
@@ -27,7 +30,7 @@ for c in ws[1]: c.font = Font(bold=True)
 # Summary sheet: KPIs for latest month, all live formulas over Data
 s = wb.create_sheet("Summary")
 s["A1"] = "Automated Monthly Report — CityMart (SAMPLE)"; s["A1"].font = Font(bold=True, size=14)
-s["A2"] = f"Report month: {latest}  |  Previous month: {prev}  |  Paste new lines into Data, extend the trend row, and this sheet updates itself."
+s["A2"] = f"Report month: {latest}  |  Previous month: {prev}  |  To add a new month, paste its lines into Data and re-run src/build_report.py — this sheet is rebuilt from Data."
 s["A4"] = "KPI"; s["B4"] = "Value"; s["C4"] = "How it is calculated (live formula)"
 for c in s[4]: c.font = Font(bold=True)
 # Data rows 2..561; date col B, amount G, order A. Month match via LEFT(B,7)=month text in A col of trend? Use SUMPRODUCT for month filtering.
@@ -51,7 +54,7 @@ for i, cat in enumerate(cats):
     s[f"B{row}"] = f'=SUMPRODUCT((LEFT(Data!$B$2:$B${len(rows)+1},7)="{latest}")*(Data!$D$2:$D${len(rows)+1}="{cat}")*Data!$G$2:$G${len(rows)+1})'
     s[f"B{row}"].number_format = '#,##0'
     s[f"C{row}"] = f"=IF($B$5=0,0,B{row}/$B$5)"; s[f"C{row}"].number_format = '0.0%'
-bar = BarChart(); bar.title = "Revenue by category — Sep 2026"; bar.y_axis.title = "PKR"; bar.x_axis.title = "Category"
+bar = BarChart(); bar.title = f"Revenue by category — {latest}"; bar.y_axis.title = "PKR"; bar.x_axis.title = "Category"
 bar.add_data(Reference(s, min_col=2, min_row=12, max_row=12 + len(cats)), titles_from_data=True)
 bar.set_categories(Reference(s, min_col=1, min_row=13, max_row=12 + len(cats))); bar.height = 7; bar.width = 13
 s.add_chart(bar, f"A{14 + len(cats)}")
@@ -69,7 +72,7 @@ line = LineChart(); line.title = "Monthly revenue trend"; line.y_axis.title = "P
 line.add_data(Reference(t, min_col=2, min_row=1, max_row=1 + len(months)), titles_from_data=True)
 line.set_categories(Reference(t, min_col=1, min_row=2, max_row=1 + len(months))); line.height = 7; line.width = 13
 t.add_chart(line, "A6")
-t["A10"] = "How to run next month: paste the new month's lines into Data (extend the SalesData table), add one row to Monthly Trend with the new month, and Summary's report month becomes that month. The Google Apps Script in apps_script/ does the same steps inside Google Sheets."
+t["A10"] = "How to run next month: paste the new month's lines into Data and re-run src/build_report.py — it re-derives the report month and rebuilds Summary and Monthly Trend from Data. The Google Apps Script in apps_script/ rebuilds Summary inside Google Sheets (run buildMonthlyReport() from the 'Monthly Report' menu)."
 for sh in (s, t):
     sh.column_dimensions["A"].width = 42; sh.column_dimensions["B"].width = 20; sh.column_dimensions["C"].width = 22; sh.column_dimensions["D"].width = 20
 wb.save(BASE / "outputs" / "monthly_report_SAMPLE.xlsx")

@@ -26,6 +26,6 @@ sales file, not from order placement.
 
 **Proof this service works:** this repo's sample — 560 lines across
 Jul–Sep 2026, Sep revenue PKR 2,862,500 at +15.82% month-on-month,
-15 automated checks passing, and a Google Apps Script that rebuilds
+16 automated checks passing, and a Google Apps Script that rebuilds
 the same report inside Sheets. The sample workbook is the demo the
 buyer sees before ordering.

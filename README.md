@@ -11,7 +11,8 @@ builder) · Google Apps Script (Sheets version of the same automation)
 **Deliverable:** `outputs/monthly_report_SAMPLE.xlsx` (Data + Summary +
 Monthly Trend, 560 lines, Jul–Sep 2026)
 **Automation:** `apps_script/monthly_report_automation.gs` — the same
-report inside Google Sheets, with a monthly trigger ready to switch on.
+report inside Google Sheets (Summary only), with `setupMonthlyTrigger()`
+to switch on the monthly 1st-of-month run.
 
 > ⚠️ **What this is and is not.** "CityMart" is a fictional shop and
 > all 560 lines are generated SAMPLE data (`src/generate_sample_data.py`,
@@ -34,8 +35,8 @@ report inside Google Sheets, with a monthly trigger ready to switch on.
 | `data/raw/sales_SAMPLE.csv` | The 560 SAMPLE lines the workbook is built from |
 | `src/generate_sample_data.py` | Generates the sample CSV (deterministic, seed 42) |
 | `src/build_report.py` | Builds the workbook: Data table, live-formula Summary/Trend, native charts |
-| `src/checks.py` | Data-quality checks as code — 15 checks, all passing |
-| `apps_script/monthly_report_automation.gs` | Google Sheets version: "Monthly Report" menu + `buildMonthlyReport()` + monthly trigger (commented, one line to switch on) |
+| `src/checks.py` | Data-quality checks as code — 16 checks, all passing |
+| `apps_script/monthly_report_automation.gs` | Google Sheets version: "Monthly Report" menu + `buildMonthlyReport()` (rebuilds Summary) + `setupMonthlyTrigger()` (run once for the monthly run) |
 
 ## 3 key findings (from this sample)
 
@@ -66,14 +67,14 @@ report inside Google Sheets, with a monthly trigger ready to switch on.
 | Month-on-month growth | +15.82% |
 | Sep orders / average order value | 205 / PKR 13,963 |
 | Sep top category / top product | Furniture PKR 1,291,500 / Office Chair PKR 737,100 |
-| Checks | 15 passing (`python3 src/checks.py`) |
+| Checks | 16 passing (`python3 src/checks.py`) |
 
-Verification: `python3 src/checks.py` (15 checks pass) plus an
+Verification: `python3 src/checks.py` (16 checks pass) plus an
 independent reopen of the workbook — 3 sheets, 561 Data rows
 including the header, live formulas in Summary B5/B7, one chart on
 Summary and one on Monthly Trend.
 
-## How to run it (under 5 steps)
+## How to run it
 
 1. Open `outputs/monthly_report_SAMPLE.xlsx` — that is the deliverable.
 2. To regenerate the sample data: `python3 src/generate_sample_data.py`.
@@ -83,12 +84,30 @@ Summary and one on Monthly Trend.
    with the client's lines (same 7 columns) and re-run step 3 — or
    paste the Apps Script into their Google Sheet and run
    `buildMonthlyReport()` from the "Monthly Report" menu.
-6. Next month: paste the new lines into Data, extend the SalesData
-   table, add one Monthly Trend row — Summary follows automatically.
+6. Next month: paste the new lines into Data (extend the SalesData
+   table) and re-run step 3 — the builder re-derives the report month
+   and rebuilds Summary + Monthly Trend from Data. Pasting lines alone
+   does not move Summary: its formulas are built for the months in the
+   file at build time.
+
+## Limits
+
+- SAMPLE data only — 3 months (Jul–Sep 2026), one fictional shop;
+  replace the CSV for a real client.
+- Excel: pasting a new month's lines into Data does not move Summary on
+  its own — re-run `src/build_report.py` (see step 6 above).
+- Google Sheets version rebuilds Summary only (KPIs + category chart);
+  it does not build the Monthly Trend sheet. Run
+  `setupMonthlyTrigger()` once to switch on the 1st-of-month run.
+- No POS/shop integration and no data cleaning — a messy source file
+  needs the P2 cleaning service first (see `PACKAGE-NOTE.md`).
+- Formulas assume the 7-column layout (`order_id, date, product,
+  category, qty, unit_price_pkr, amount_pkr`) and ISO dates
+  (`YYYY-MM-DD`).
 
 ## Tools
 
-- Python 3 · openpyxl (workbook + charts) · Google Apps Script (Sheets)
+- Python 3 · openpyxl 3.1.2 (pinned in `requirements.txt`) · Google Apps Script (Sheets)
 - Excel / Google Sheets (the client's tool, not a new tool to learn)
 
 ## Data source note

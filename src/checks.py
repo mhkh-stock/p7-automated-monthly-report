@@ -6,7 +6,9 @@ from openpyxl import load_workbook
 BASE = Path(__file__).resolve().parents[1]
 rows = list(csv.DictReader(open(BASE / "data" / "raw" / "sales_SAMPLE.csv")))
 fails = []
+ran = []
 def check(name, cond, detail=""):
+    ran.append(name)
     print(("PASS " if cond else "FAIL ") + name + (f" — {detail}" if detail else ""))
     if not cond: fails.append(name)
 def tot(month): return sum(int(r["amount_pkr"]) for r in rows if r["date"].startswith(month))
@@ -28,5 +30,5 @@ check("Summary B7 is a growth formula", isinstance(wb["Summary"]["B7"].value, st
 check("Summary has a chart", len(wb["Summary"]._charts) >= 1)
 check("Monthly Trend has a chart", len(wb["Monthly Trend"]._charts) >= 1)
 check("Apps Script file exists", (BASE / "apps_script" / "monthly_report_automation.gs").exists())
-print(f"\n{len(fails)} failures" if fails else "\nALL CHECKS PASS")
+print(f"\n{len(ran) - len(fails)} of {len(ran)} checks passed" if not fails else f"\n{len(fails)} failures out of {len(ran)} checks")
 sys.exit(1 if fails else 0)
